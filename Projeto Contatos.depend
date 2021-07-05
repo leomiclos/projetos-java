@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1620933640 source:c:\users\leomi\desktop\codeblock\avaliação 2\contato\projeto contatos\contato.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"contatos.h"
+
+1620915921 c:\users\leomi\desktop\codeblock\avaliação 2\contato\projeto contatos\contatos.h
+
+1620925365 source:c:\users\leomi\desktop\codeblock\avaliação 2\contato\projeto contatos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"contatos.h"
+	<locale.h>
+
